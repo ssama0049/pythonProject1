@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "NA",
+            "asn_cidr": "NA",
+            "asn_country_code": "ES",
+            "asn_date": "2012-05-03",
+            "asn_description": "NA",
+            "query": "5.22.156.200",
+            "nets": [
+                        {
+                                    "cidr": "5.22.156.0/22",
+                                    "name": "ES-GETREDES-20120503",
+                                    "handle": "AV11873-RIPE",
+                                    "range": "5.22.156.0 - 5.22.159.255",
+                                    "description": null,
+                                    "country": "CZ",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "C. Gertrudis Moret i Frigola 3\n17310\nLloret de Mar\nSPAIN",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2012-11-29T15:57:12Z",
+                                    "updated": "2022-09-12T13:13:44Z"
+                        },
+                        {
+                                    "cidr": "5.22.156.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "5.22.156.0 - 5.22.156.255",
+                                    "description": "Highload systems LTD",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2012-12-14T09:26:08Z",
+                                    "updated": "2012-12-14T09:26:08Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

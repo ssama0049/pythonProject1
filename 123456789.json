@@ -1,0 +1,34 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "13335",
+            "asn_cidr": "104.21.80.0/20",
+            "asn_country_code": "US",
+            "asn_date": "2014-03-28",
+            "asn_description": "CLOUDFLARENET, US",
+            "query": "104.21.91.120",
+            "nets": [
+                        {
+                                    "cidr": "104.16.0.0/12",
+                                    "name": "CLOUDFLARENET",
+                                    "handle": "NET-104-16-0-0-1",
+                                    "range": "104.16.0.0 - 104.31.255.255",
+                                    "description": "Cloudflare, Inc.",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "San Francisco",
+                                    "address": "101 Townsend Street",
+                                    "postal_code": "94107",
+                                    "emails": [
+                                                "noc@cloudflare.com",
+                                                "rir@cloudflare.com",
+                                                "abuse@cloudflare.com"
+                                    ],
+                                    "created": "2014-03-28",
+                                    "updated": "2021-05-26"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

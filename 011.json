@@ -1,0 +1,49 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "197695",
+            "asn_cidr": "194.58.96.0/24",
+            "asn_country_code": "RU",
+            "asn_date": "1994-06-13",
+            "asn_description": "AS-REG, RU",
+            "query": "194.58.96.160",
+            "nets": [
+                        {
+                                    "cidr": "194.58.96.0/22",
+                                    "name": "REGRU-NETWORK",
+                                    "handle": "RGRU-RIPE",
+                                    "range": "194.58.96.0 - 194.58.99.255",
+                                    "description": "Reg.Ru Hosting",
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Russia, Moscow, Vassily Petushkova st., house 3, Office 326",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "noc@reg.ru",
+                                                "support@reg.ru",
+                                                "abuse@reg.ru"
+                                    ],
+                                    "created": "2014-03-17T07:50:30Z",
+                                    "updated": "2014-03-17T07:50:30Z"
+                        },
+                        {
+                                    "cidr": "194.58.96.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "194.58.96.0 - 194.58.96.255",
+                                    "description": "Reg.Ru",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2014-03-17T07:54:49Z",
+                                    "updated": "2014-03-17T07:54:49Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

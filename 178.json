@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "209117",
+            "asn_cidr": "2.57.36.0/24",
+            "asn_country_code": "RU",
+            "asn_date": "2019-03-15",
+            "asn_description": "IT-LANCE IT-Lance ISP, UA",
+            "query": "2.57.36.5",
+            "nets": [
+                        {
+                                    "cidr": "2.57.36.0/24",
+                                    "name": "IT-LANCE",
+                                    "handle": "VZ1881-RIPE",
+                                    "range": "2.57.36.0 - 2.57.36.255",
+                                    "description": "Unity Of Digital Technologies",
+                                    "country": "UA",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "61052, Ukraine, Kharkiv, Suzdalskiy r.9, of. 609",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2020-09-24T10:54:09Z",
+                                    "updated": "2020-09-24T11:05:52Z"
+                        },
+                        {
+                                    "cidr": "2.57.36.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "2.57.36.0 - 2.57.36.255",
+                                    "description": null,
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": "61052, Ukraine, Kharkiv, Suzdalskiy r.9, of. 609",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2020-09-24T10:55:36Z",
+                                    "updated": "2022-04-05T14:17:11Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

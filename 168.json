@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "34602",
+            "asn_cidr": "31.130.128.0/19",
+            "asn_country_code": "RU",
+            "asn_date": "2011-05-02",
+            "asn_description": "STARLINK-AS Moscow, Russia, RU",
+            "query": "31.130.150.5",
+            "nets": [
+                        {
+                                    "cidr": "31.130.128.0/19",
+                                    "name": "RU-MEGASVYAZ-Yauza",
+                                    "handle": "AT13823-RIPE",
+                                    "range": "31.130.128.0 - 31.130.159.255",
+                                    "description": null,
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Postbox 798, Megasvyaz LLC\n127549\nMoscow\nRUSSIAN FEDERATION",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2011-05-02T09:02:43Z",
+                                    "updated": "2018-10-11T09:29:49Z"
+                        },
+                        {
+                                    "cidr": "31.130.128.0/19",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "31.130.128.0 - 31.130.159.255",
+                                    "description": "Starlink Yauza route",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2014-01-22T05:47:02Z",
+                                    "updated": "2014-10-11T20:25:44Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,47 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "3352",
+            "asn_cidr": "37.12.0.0/16",
+            "asn_country_code": "ES",
+            "asn_date": "2011-12-16",
+            "asn_description": "TELEFONICA_DE_ESPANA, ES",
+            "query": "37.12.25.2",
+            "nets": [
+                        {
+                                    "cidr": "37.12.0.0/18",
+                                    "name": "TME",
+                                    "handle": "ATDE1-RIPE",
+                                    "range": "37.12.0.0 - 37.12.63.255",
+                                    "description": "Red de Servicios IP",
+                                    "country": "ES",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Ronda de la Comunicacion s/n\nEdificio Norte 1, planta 6\n28050 Madrid\nSPAIN",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "nemesys@telefonica.es"
+                                    ],
+                                    "created": "2022-07-05T12:17:09Z",
+                                    "updated": "2022-07-05T12:17:09Z"
+                        },
+                        {
+                                    "cidr": "37.12.0.0/16",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "37.12.0.0 - 37.12.255.255",
+                                    "description": "RIMA (Red IP Multi Acceso)",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2011-12-26T11:15:56Z",
+                                    "updated": "2011-12-26T11:15:56Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

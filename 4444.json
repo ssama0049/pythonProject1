@@ -1,0 +1,35 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "NA",
+            "asn_cidr": "NA",
+            "asn_country_code": "US",
+            "asn_date": "2018-06-25",
+            "asn_description": "NA",
+            "query": "3.243.0.5",
+            "nets": [
+                        {
+                                    "cidr": "3.128.0.0/9",
+                                    "name": "AT-88-Z",
+                                    "handle": "NET-3-128-0-0-1",
+                                    "range": "3.128.0.0 - 3.255.255.255",
+                                    "description": "Amazon Technologies Inc.",
+                                    "country": "US",
+                                    "state": "WA",
+                                    "city": "Seattle",
+                                    "address": "410 Terry Ave N.",
+                                    "postal_code": "98109",
+                                    "emails": [
+                                                "amzn-noc-contact@amazon.com",
+                                                "aws-rpki-routing-poc@amazon.com",
+                                                "abuse@amazonaws.com",
+                                                "aws-routing-poc@amazon.com"
+                                    ],
+                                    "created": "2018-06-25",
+                                    "updated": "2018-09-13"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

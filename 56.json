@@ -1,0 +1,92 @@
+{
+            "nir": {
+                        "query": "112.223.43.54",
+                        "raw": null,
+                        "nets": [
+                                    {
+                                                "cidr": "112.216.0.0/13",
+                                                "name": "LG DACOM Corporation",
+                                                "handle": "BORANET",
+                                                "range": "112.216.0.0 - 112.223.255.255",
+                                                "country": "KR",
+                                                "address": "Seoul Yongsan-gu Hangang-daero 32",
+                                                "postal_code": "04389",
+                                                "nameservers": null,
+                                                "created": "2009-02-16T00:00:00",
+                                                "updated": null,
+                                                "contacts": {
+                                                            "admin": {
+                                                                        "email": "ipadm@lguplus.co.kr"
+                                                            },
+                                                            "tech": null
+                                                }
+                                    },
+                                    {
+                                                "cidr": "112.223.43.48/29",
+                                                "name": "LG Uplus",
+                                                "handle": "CUSTOMER",
+                                                "range": "112.223.43.48 - 112.223.43.55",
+                                                "country": "KR",
+                                                "address": "Gyeonggi-do Manan-gu, Anyang-si Deokcheon-ro 37",
+                                                "postal_code": "14088",
+                                                "nameservers": null,
+                                                "created": "2011-01-26T00:00:00",
+                                                "updated": null,
+                                                "contacts": {
+                                                            "admin": null,
+                                                            "tech": {
+                                                                        "email": "b8273338@user.bora.net"
+                                                            }
+                                                }
+                                    }
+                        ]
+            },
+            "asn_registry": "apnic",
+            "asn": "3786",
+            "asn_cidr": "112.216.0.0/13",
+            "asn_country_code": "KR",
+            "asn_date": "2009-02-16",
+            "asn_description": "LGDACOM LG DACOM Corporation, KR",
+            "query": "112.223.43.54",
+            "nets": [
+                        {
+                                    "cidr": "112.216.0.0/13",
+                                    "name": "BORANET",
+                                    "handle": "IM646-AP",
+                                    "range": "112.216.0.0 - 112.223.255.255",
+                                    "description": "LG DACOM Corporation",
+                                    "country": "KR",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Jeollanam-do Naju-si Jinheung-gil",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "irt@nic.or.kr",
+                                                "ipadm@lguplus.co.kr"
+                                    ],
+                                    "created": null,
+                                    "updated": null
+                        },
+                        {
+                                    "cidr": "112.216.0.0/13",
+                                    "name": "BORANET-KR",
+                                    "handle": "IA5-KR",
+                                    "range": "112.216.0.0 - 112.223.255.255",
+                                    "description": "LG DACOM Corporation",
+                                    "country": "KR",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Seoul Yongsan-gu Hangang-daero 32\nLG UPLUS",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "hostmaster@nic.or.kr",
+                                                "ipadm@lguplus.co.kr"
+                                    ],
+                                    "created": null,
+                                    "updated": null
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

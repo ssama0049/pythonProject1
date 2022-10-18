@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "197131",
+            "asn_cidr": "31.40.16.0/21",
+            "asn_country_code": "UA",
+            "asn_date": "2011-04-28",
+            "asn_description": "ASBAGNJUK, UA",
+            "query": "31.40.17.125",
+            "nets": [
+                        {
+                                    "cidr": "31.40.16.0/21",
+                                    "name": "ORSTEPLODAR-NET",
+                                    "handle": "BAGN1-RIPE",
+                                    "range": "31.40.16.0 - 31.40.23.255",
+                                    "description": null,
+                                    "country": "UA",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "ul. Polevaya 1, Teplodar 65490, Ukraine",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2011-04-28T13:49:26Z",
+                                    "updated": "2016-04-14T10:40:02Z"
+                        },
+                        {
+                                    "cidr": "31.40.16.0/23",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "31.40.16.0 - 31.40.17.255",
+                                    "description": "Ketnet Telecom Ltd",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2011-10-14T14:54:04Z",
+                                    "updated": "2011-10-14T15:12:09Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

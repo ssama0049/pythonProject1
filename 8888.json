@@ -1,0 +1,37 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "7018",
+            "asn_cidr": "12.0.0.0/9",
+            "asn_country_code": "US",
+            "asn_date": "1983-08-23",
+            "asn_description": "ATT-INTERNET4, US",
+            "query": "12.13.67.32",
+            "nets": [
+                        {
+                                    "cidr": "12.0.0.0/8",
+                                    "name": "ATT",
+                                    "handle": "NET-12-0-0-0-1",
+                                    "range": "12.0.0.0 - 12.255.255.255",
+                                    "description": "AT&T Services, Inc.",
+                                    "country": "US",
+                                    "state": "NJ",
+                                    "city": "MIDDLETOWN",
+                                    "address": "200 S. Laurel AVE.",
+                                    "postal_code": "07748",
+                                    "emails": [
+                                                "abuse@att.net",
+                                                "jb3310-arin@oz.mt.att.com",
+                                                "rm-ipspecialist@att.com",
+                                                "swipid@icorefep1.ims.att.com",
+                                                "ipadmin@att.com",
+                                                "addrmgt@qsun.att.com"
+                                    ],
+                                    "created": "1983-08-23",
+                                    "updated": "2013-12-19"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

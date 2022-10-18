@@ -1,0 +1,32 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "22390",
+            "asn_cidr": "13.13.0.0/18",
+            "asn_country_code": "US",
+            "asn_date": "1986-04-25",
+            "asn_description": "XEROX-WB, US",
+            "query": "13.13.0.17",
+            "nets": [
+                        {
+                                    "cidr": "13.16.0.0/13, 13.0.0.0/12",
+                                    "name": "XEROX-NET",
+                                    "handle": "NET-13-0-0-0-1",
+                                    "range": "13.0.0.0 - 13.23.255.255",
+                                    "description": "Xerox Corporation",
+                                    "country": "US",
+                                    "state": "CT",
+                                    "city": "Norwalk",
+                                    "address": "201 Merritt 7",
+                                    "postal_code": "06851",
+                                    "emails": [
+                                                "IP.Name.Mgmt@xerox.com"
+                                    ],
+                                    "created": "1986-04-25",
+                                    "updated": "2021-12-14"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

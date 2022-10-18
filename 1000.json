@@ -1,0 +1,48 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "47541",
+            "asn_cidr": "87.240.128.0/18",
+            "asn_country_code": "RU",
+            "asn_date": "2009-12-23",
+            "asn_description": "VKONTAKTE-SPB-AS vk.com, RU",
+            "query": "87.240.132.67",
+            "nets": [
+                        {
+                                    "cidr": "87.240.128.0/19",
+                                    "name": "VKONTAKTE-FRONT",
+                                    "handle": "NCC31-RIPE",
+                                    "range": "87.240.128.0 - 87.240.159.255",
+                                    "description": "VKontakte Services",
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Prem.1-N, Bld. 12-14, Lit. A, Khersonskaya str.\n191024\nSaint-Petersburg\nRUSSIAN FEDERATION",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "noc@vk.com",
+                                                "ncc@corp.vk.com"
+                                    ],
+                                    "created": "2009-12-24T13:54:52Z",
+                                    "updated": "2022-06-22T09:12:35Z"
+                        },
+                        {
+                                    "cidr": "87.240.128.0/18",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "87.240.128.0 - 87.240.191.255",
+                                    "description": "Saint Petersburg region",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2009-12-24T13:57:25Z",
+                                    "updated": "2022-06-20T13:06:06Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

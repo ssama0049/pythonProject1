@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "1103",
+            "asn_cidr": "134.221.0.0/16",
+            "asn_country_code": "NL",
+            "asn_date": "1989-07-27",
+            "asn_description": "SURFNET-NL SURFnet, The Netherlands, NL",
+            "query": "134.221.3.56",
+            "nets": [
+                        {
+                                    "cidr": "134.221.0.0/16",
+                                    "name": "TNO",
+                                    "handle": "TRO3-RIPE",
+                                    "range": "134.221.0.0 - 134.221.255.255",
+                                    "description": "Dutch organization for applied scientific research",
+                                    "country": "NL",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "P.O. box 96800\nNL - 2509 JE The Hague\nThe Netherlands",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "1970-01-01T00:00:00Z",
+                                    "updated": "2016-08-30T08:35:08Z"
+                        },
+                        {
+                                    "cidr": "134.221.0.0/16",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "134.221.0.0 - 134.221.255.255",
+                                    "description": "TNO-NET",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "1970-01-01T00:00:00Z",
+                                    "updated": "2001-09-22T09:31:46Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

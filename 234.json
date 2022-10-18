@@ -1,0 +1,47 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "31483",
+            "asn_cidr": "5.3.2.0/24",
+            "asn_country_code": "RU",
+            "asn_date": "2012-04-27",
+            "asn_description": "ERTELECOM-DC-AS, RU",
+            "query": "5.3.2.67",
+            "nets": [
+                        {
+                                    "cidr": "5.3.0.0/16",
+                                    "name": "RU-RAID-20120427",
+                                    "handle": "RAID1-RIPE",
+                                    "range": "5.3.0.0 - 5.3.255.255",
+                                    "description": null,
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "str. Shosse Kosmonavtov, 111, bldg. 43, office 509\n614990\nPerm\nRUSSIAN FEDERATION",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse@domru.ru"
+                                    ],
+                                    "created": "2012-04-27T09:44:23Z",
+                                    "updated": "2016-05-30T12:40:25Z"
+                        },
+                        {
+                                    "cidr": "5.3.2.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "5.3.2.0 - 5.3.2.255",
+                                    "description": "JSC \"ER-Telecom Holding\"\nOmsk, Russia",
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "str. Shosse Kosmonavtov, 111, bldg. 43, office 509\n614990\nPerm\nRUSSIAN FEDERATION",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2016-07-28T11:17:38Z",
+                                    "updated": "2016-07-28T11:17:38Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

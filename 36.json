@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "42484",
+            "asn_cidr": "77.73.24.0/21",
+            "asn_country_code": "RU",
+            "asn_date": "2007-03-01",
+            "asn_description": "GPTEL-AS, RU",
+            "query": "77.73.31.220",
+            "nets": [
+                        {
+                                    "cidr": "77.73.31.0/24",
+                                    "name": "MIREA-MGUPI-NET",
+                                    "handle": "TSA6908-RIPE",
+                                    "range": "77.73.31.0 - 77.73.31.255",
+                                    "description": "net for MIREA University campus on Stromynka str. 20",
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "123459, Russia, Moscow\nEntuziastov St. 29/53",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2015-10-14T06:13:51Z",
+                                    "updated": "2015-10-14T06:13:51Z"
+                        },
+                        {
+                                    "cidr": "77.73.31.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "77.73.31.0 - 77.73.31.255",
+                                    "description": "Grand Prix Telecom block8",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2013-03-01T08:46:40Z",
+                                    "updated": "2013-03-01T08:46:40Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

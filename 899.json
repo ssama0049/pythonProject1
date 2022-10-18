@@ -1,0 +1,64 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "3326",
+            "asn_cidr": "46.164.128.0/20",
+            "asn_country_code": "UA",
+            "asn_date": "2010-12-09",
+            "asn_description": "DATAGROUP Datagroup PJSC, UA",
+            "query": "46.164.139.72",
+            "nets": [
+                        {
+                                    "cidr": "46.164.139.72/29",
+                                    "name": "SM-DATAGROUP",
+                                    "handle": "DCOM-RIPE",
+                                    "range": "46.164.139.72 - 46.164.139.79",
+                                    "description": "Sport Marketing Ltd, Kiev, Grinchenka str, 2/1",
+                                    "country": "UA",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "PJSC DATAGROUP\nSmolenskaya str., 31-33\n03005 Kiyv\nUkraine",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "mailadmin@sportlife.ua",
+                                                "abuse@ip.datagroup.ua",
+                                                "noc@datagroup.ua"
+                                    ],
+                                    "created": "2011-09-26T08:18:41Z",
+                                    "updated": "2011-09-26T08:18:41Z"
+                        },
+                        {
+                                    "cidr": "46.164.128.0/20",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "46.164.128.0 - 46.164.143.255",
+                                    "description": "PJSC DATAGROUP",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2017-10-20T20:16:16Z",
+                                    "updated": "2017-10-20T20:16:16Z"
+                        },
+                        {
+                                    "cidr": "46.164.128.0/20",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "46.164.128.0 - 46.164.143.255",
+                                    "description": "PJSC DATAGROUP",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2019-03-20T14:31:08Z",
+                                    "updated": "2019-03-20T14:31:08Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,48 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "30722",
+            "asn_cidr": "130.25.0.0/18",
+            "asn_country_code": "IT",
+            "asn_date": "2011-10-14",
+            "asn_description": "VODAFONE-IT-ASN, IT",
+            "query": "130.25.8.4",
+            "nets": [
+                        {
+                                    "cidr": "130.25.0.0/17",
+                                    "name": "VODAFONE-IT-63",
+                                    "handle": "VI745-RIPE",
+                                    "range": "130.25.0.0 - 130.25.127.255",
+                                    "description": "IP addresses assigned for VF DSL customers",
+                                    "country": "IT",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Via Jervis, 13\nIvrea (TO)\nITALY",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "italy.abuse@mail.vodafone.it",
+                                                "IP-ASSIGN@mail.vodafone.it"
+                                    ],
+                                    "created": "2011-10-17T13:58:27Z",
+                                    "updated": "2011-11-22T14:53:03Z"
+                        },
+                        {
+                                    "cidr": "130.25.0.0/18",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "130.25.0.0 - 130.25.63.255",
+                                    "description": null,
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2017-12-07T08:59:03Z",
+                                    "updated": "2017-12-07T08:59:03Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

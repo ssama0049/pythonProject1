@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "12958",
+            "asn_cidr": "176.59.172.0/22",
+            "asn_country_code": "RU",
+            "asn_date": "2011-06-06",
+            "asn_description": "MCC Tele2 Russia Network, RU",
+            "query": "176.59.174.170",
+            "nets": [
+                        {
+                                    "cidr": "176.59.160.0/19",
+                                    "name": "TELE2RU-SUBSCRIBER-POOL-NET",
+                                    "handle": "TEL20-RIPE",
+                                    "range": "176.59.160.0 - 176.59.191.255",
+                                    "description": "Tele2 Russia IP Network (MSK)",
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Russia, Omsk",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2020-10-08T05:28:08Z",
+                                    "updated": "2020-10-08T05:28:08Z"
+                        },
+                        {
+                                    "cidr": "176.59.172.0/22",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "176.59.172.0 - 176.59.175.255",
+                                    "description": "Tele2 Russia Groups",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2020-10-08T08:40:22Z",
+                                    "updated": "2020-10-08T08:40:22Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,32 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "NA",
+            "asn_cidr": "NA",
+            "asn_country_code": "US",
+            "asn_date": "1988-12-16",
+            "asn_description": "NA",
+            "query": "9.23.56.8",
+            "nets": [
+                        {
+                                    "cidr": "9.32.0.0/11, 9.9.64.0/18, 9.9.10.0/23, 9.9.16.0/20, 9.9.128.0/17, 9.16.0.0/12, 9.12.0.0/14, 9.9.32.0/19, 9.128.0.0/9, 9.10.0.0/15, 9.9.12.0/22, 9.64.0.0/10",
+                                    "name": "IBM",
+                                    "handle": "NET-9-9-10-0-1",
+                                    "range": "9.9.10.0 - 9.255.255.255",
+                                    "description": "IBM",
+                                    "country": "US",
+                                    "state": "NC",
+                                    "city": "Research Triangle Park",
+                                    "address": "3039 Cornwallis Road",
+                                    "postal_code": "27709-2195",
+                                    "emails": [
+                                                "ipreg@us.ibm.com"
+                                    ],
+                                    "created": "1988-12-16",
+                                    "updated": "2021-12-14"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,47 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "15895",
+            "asn_cidr": "5.248.0.0/16",
+            "asn_country_code": "UA",
+            "asn_date": "2012-09-12",
+            "asn_description": "KSNET-AS, UA",
+            "query": "5.248.250.101",
+            "nets": [
+                        {
+                                    "cidr": "5.248.128.0/17",
+                                    "name": "KYIVSTAR-NET-16",
+                                    "handle": "KSUA-RIPE",
+                                    "range": "5.248.128.0 - 5.248.255.255",
+                                    "description": "Kyivstar GSM\nUkrainian mobile phone operator",
+                                    "country": "UA",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Degtyarevskaya, 53\nKiev, Ukraine",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse@kyivstar.net"
+                                    ],
+                                    "created": "2012-10-22T06:44:55Z",
+                                    "updated": "2012-10-22T06:44:55Z"
+                        },
+                        {
+                                    "cidr": "5.248.0.0/16",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "5.248.0.0 - 5.248.255.255",
+                                    "description": "Kyivstar GSM, Kiev, Ukraine",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2012-09-12T13:13:30Z",
+                                    "updated": "2012-09-12T13:13:30Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

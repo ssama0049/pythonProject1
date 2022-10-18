@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "8592",
+            "asn_cidr": "212.16.0.0/20",
+            "asn_country_code": "RU",
+            "asn_date": "1998-02-16",
+            "asn_description": "IMT, RU",
+            "query": "212.16.7.101",
+            "nets": [
+                        {
+                                    "cidr": "212.16.7.64/26",
+                                    "name": "rtu-stromynka",
+                                    "handle": "PV7165-RIPE",
+                                    "range": "212.16.7.64 - 212.16.7.127",
+                                    "description": "LAN of RTU MIREA",
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "P-t Vernadskogo,78\nMoscow\n119571 , Russia",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2003-04-01T09:05:20Z",
+                                    "updated": "2018-09-19T11:11:29Z"
+                        },
+                        {
+                                    "cidr": "212.16.0.0/20",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "212.16.0.0 - 212.16.15.255",
+                                    "description": "IMT-Center\nMoscow, Russia",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2009-04-14T13:03:04Z",
+                                    "updated": "2019-09-17T14:23:26Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,47 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "5607",
+            "asn_cidr": "2.120.0.0/13",
+            "asn_country_code": "GB",
+            "asn_date": "2010-04-14",
+            "asn_description": "BSKYB-BROADBAND-AS, GB",
+            "query": "2.123.45.78",
+            "nets": [
+                        {
+                                    "cidr": "2.123.0.0/17",
+                                    "name": "BSKYB-BROADBAND",
+                                    "handle": "BBH-RIPE",
+                                    "range": "2.123.0.0 - 2.123.127.255",
+                                    "description": "Sky UK Limited",
+                                    "country": "GB",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Sky Network Services\n1 Brick Lane\nLondon\nE1 6PU\nUK",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse@sky.uk"
+                                    ],
+                                    "created": "2010-08-26T13:45:27Z",
+                                    "updated": "2016-06-17T14:34:52Z"
+                        },
+                        {
+                                    "cidr": "2.120.0.0/13",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "2.120.0.0 - 2.127.255.255",
+                                    "description": "Sky Broadband",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2010-04-23T09:22:38Z",
+                                    "updated": "2015-08-17T16:30:13Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

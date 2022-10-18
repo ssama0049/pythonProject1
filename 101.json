@@ -1,0 +1,47 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "6805",
+            "asn_cidr": "5.4.0.0/14",
+            "asn_country_code": "DE",
+            "asn_date": "2012-04-25",
+            "asn_description": "TDDE-ASN1, DE",
+            "query": "5.4.0.8",
+            "nets": [
+                        {
+                                    "cidr": "5.4.0.0/14",
+                                    "name": "DE-MEDIAWAYS-20120425",
+                                    "handle": "MWH6-RIPE",
+                                    "range": "5.4.0.0 - 5.7.255.255",
+                                    "description": null,
+                                    "country": "DE",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Georg-Brauchle-Ring 50\n80992\nMnchen\nGERMANY",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse.de@telefonica.com"
+                                    ],
+                                    "created": "2012-04-25T06:13:17Z",
+                                    "updated": "2018-07-30T09:52:34Z"
+                        },
+                        {
+                                    "cidr": "5.4.0.0/14",
+                                    "name": "DE-MEDIAWAYS",
+                                    "handle": null,
+                                    "range": "5.4.0.0 - 5.7.255.255",
+                                    "description": "Telefonica Germany GmbH & Co. OHG",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2018-08-08T09:03:25Z",
+                                    "updated": "2018-08-08T09:13:47Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

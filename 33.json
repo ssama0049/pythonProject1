@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "62133",
+            "asn_cidr": "83.143.64.0/22",
+            "asn_country_code": "RU",
+            "asn_date": "2005-04-05",
+            "asn_description": "RANHIGS-AS, RU",
+            "query": "83.143.64.0",
+            "nets": [
+                        {
+                                    "cidr": "83.143.64.0/22",
+                                    "name": "RANEPA",
+                                    "handle": "AA26502-RIPE",
+                                    "range": "83.143.64.0 - 83.143.67.255",
+                                    "description": null,
+                                    "country": "RU",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Prospect Vernadskogo, 82, Moscow, Russian Federation 119571",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2015-06-24T11:13:55Z",
+                                    "updated": "2021-12-27T09:47:03Z"
+                        },
+                        {
+                                    "cidr": "83.143.64.0/22",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "83.143.64.0 - 83.143.67.255",
+                                    "description": "RANHiGS delegated block NEW",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2015-12-11T13:28:43Z",
+                                    "updated": "2015-12-11T13:28:43Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}
