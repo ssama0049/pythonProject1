@@ -9,7 +9,8 @@ while(n != 0):
     s = open("2.txt", "r").readlines()
     v = "".join(s)
     u = v.split()
-    print(u)
+    for i in u:
+        print(i)
     num = str(input("Введите ip для работы:"))
     if (num in u):
         obj = ipwhois.IPWhois(num)

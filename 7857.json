@@ -1,0 +1,33 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "749",
+            "asn_cidr": "21.0.0.0/8",
+            "asn_country_code": "US",
+            "asn_date": "1991-07-01",
+            "asn_description": "DNIC-AS-00749, US",
+            "query": "21.23.55.76",
+            "nets": [
+                        {
+                                    "cidr": "21.0.0.0/8",
+                                    "name": "DNIC-SNET-021",
+                                    "handle": "NET-21-0-0-0-1",
+                                    "range": "21.0.0.0 - 21.255.255.255",
+                                    "description": "DoD Network Information Center",
+                                    "country": "US",
+                                    "state": "OH",
+                                    "city": "Columbus",
+                                    "address": "3990 E. Broad Street",
+                                    "postal_code": "43218",
+                                    "emails": [
+                                                "disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil",
+                                                "disa.columbus.ns.mbx.arin-registrations@mail.mil"
+                                    ],
+                                    "created": "1991-07-01",
+                                    "updated": "2009-06-19"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}
