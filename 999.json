@@ -1,0 +1,33 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "396982",
+            "asn_cidr": "34.32.0.0/11",
+            "asn_country_code": "US",
+            "asn_date": "2022-05-09",
+            "asn_description": "GOOGLE-CLOUD-PLATFORM, US",
+            "query": "34.56.9.124",
+            "nets": [
+                        {
+                                    "cidr": "34.6.0.0/15, 34.4.16.0/20, 34.4.6.0/23, 34.4.128.0/17, 34.32.0.0/11, 34.4.64.0/18, 34.4.8.0/21, 34.4.5.0/24, 34.5.0.0/16, 34.8.0.0/13, 34.4.32.0/19, 34.16.0.0/12",
+                                    "name": "GOOGL-2",
+                                    "handle": "NET-34-4-5-0-1",
+                                    "range": "34.4.5.0 - 34.63.255.255",
+                                    "description": "Google LLC",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "Mountain View",
+                                    "address": "1600 Amphitheatre Parkway",
+                                    "postal_code": "94043",
+                                    "emails": [
+                                                "arin-contact@google.com",
+                                                "google-cloud-compliance@google.com"
+                                    ],
+                                    "created": "2022-05-09",
+                                    "updated": "2022-05-09"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

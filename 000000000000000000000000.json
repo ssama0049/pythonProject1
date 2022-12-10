@@ -1,0 +1,48 @@
+{
+            "nir": null,
+            "asn_registry": "apnic",
+            "asn": "9808",
+            "asn_cidr": "111.55.32.0/23",
+            "asn_country_code": "CN",
+            "asn_date": "2009-05-06",
+            "asn_description": "CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN",
+            "query": "111.55.32.99",
+            "nets": [
+                        {
+                                    "cidr": "111.0.0.0/10",
+                                    "name": "CMNET",
+                                    "handle": "AC2006-AP",
+                                    "range": "111.0.0.0 - 111.63.255.255",
+                                    "description": "China Mobile Communications Corporation\nMobile Communications Network Operator in China\nInternet Service Provider in China",
+                                    "country": "CN",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "China Mobile Communications Corporation\n29, Jinrong Ave., Xicheng District, Beijing, 100032",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse@chinamobile.com",
+                                                "hostmaster@chinamobile.com"
+                                    ],
+                                    "created": null,
+                                    "updated": null
+                        },
+                        {
+                                    "cidr": "111.0.0.0/10",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "111.0.0.0 - 111.63.255.255",
+                                    "description": "China Mobile communications corporation",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": null,
+                                    "updated": null
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,33 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "2152",
+            "asn_cidr": "137.151.0.0/16",
+            "asn_country_code": "US",
+            "asn_date": "1989-12-06",
+            "asn_description": "CSUNET-NW, US",
+            "query": "137.151.116.212",
+            "nets": [
+                        {
+                                    "cidr": "137.151.0.0/16",
+                                    "name": "FULNET",
+                                    "handle": "NET-137-151-0-0-1",
+                                    "range": "137.151.0.0 - 137.151.255.255",
+                                    "description": "Cal State Fullerton",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "Fullerton",
+                                    "address": "800 N State College Blvd",
+                                    "postal_code": "92831",
+                                    "emails": [
+                                                "unixadmin@fullerton.edu",
+                                                "abuse@fullerton.edu"
+                                    ],
+                                    "created": "1989-12-06",
+                                    "updated": "2021-12-14"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

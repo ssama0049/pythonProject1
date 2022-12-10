@@ -1,0 +1,71 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "7018",
+            "asn_cidr": "12.0.0.0/9",
+            "asn_country_code": "US",
+            "asn_date": "1983-08-23",
+            "asn_description": "ATT-INTERNET4, US",
+            "query": "12.13.67.32",
+            "nets": [
+                        {
+                                    "cidr": "12.0.0.0/8",
+                                    "name": "ATT",
+                                    "handle": "NET-12-0-0-0-1",
+                                    "range": "12.0.0.0 - 12.255.255.255",
+                                    "description": "AT&T Services, Inc.",
+                                    "country": "US",
+                                    "state": "NJ",
+                                    "city": "MIDDLETOWN",
+                                    "address": "200 S. Laurel AVE.",
+                                    "postal_code": "07748",
+                                    "emails": [
+                                                "abuse@att.net",
+                                                "ipadmin@att.com",
+                                                "swipid@icorefep3.ims.att.com",
+                                                "jb3310-arin@oz.mt.att.com",
+                                                "bs712s@intl.att.com",
+                                                "addrmgt@qsun.att.com"
+                                    ],
+                                    "created": "1983-08-23",
+                                    "updated": "2013-12-19"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "NA",
+            "asn_cidr": "NA",
+            "asn_country_code": "US",
+            "asn_date": "2018-06-25",
+            "asn_description": "NA",
+            "query": "3.243.0.5",
+            "nets": [
+                        {
+                                    "cidr": "3.128.0.0/9",
+                                    "name": "AT-88-Z",
+                                    "handle": "NET-3-128-0-0-1",
+                                    "range": "3.128.0.0 - 3.255.255.255",
+                                    "description": "Amazon Technologies Inc.",
+                                    "country": "US",
+                                    "state": "WA",
+                                    "city": "Seattle",
+                                    "address": "410 Terry Ave N.",
+                                    "postal_code": "98109",
+                                    "emails": [
+                                                "abuse@amazonaws.com",
+                                                "amzn-noc-contact@amazon.com",
+                                                "aws-rpki-routing-poc@amazon.com",
+                                                "aws-routing-poc@amazon.com"
+                                    ],
+                                    "created": "2018-06-25",
+                                    "updated": "2018-09-13"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

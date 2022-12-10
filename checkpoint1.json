@@ -1,0 +1,49 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "3269",
+            "asn_cidr": "88.54.0.0/15",
+            "asn_country_code": "IT",
+            "asn_date": "2005-09-30",
+            "asn_description": "ASN-IBSNAZ, IT",
+            "query": "88.55.32.26",
+            "nets": [
+                        {
+                                    "cidr": "88.55.32.0/24",
+                                    "name": "INTERBUSINESS",
+                                    "handle": "INAS1-RIPE",
+                                    "range": "88.55.32.0 - 88.55.32.255",
+                                    "description": "Telecom Italia SPA\nProvider Local Registry\nBB IBS",
+                                    "country": "IT",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Telecom Italia S.p.A\nItaly",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse@business.telecomitalia.it"
+                                    ],
+                                    "created": "2007-01-03T12:20:07Z",
+                                    "updated": "2007-01-03T12:20:07Z"
+                        },
+                        {
+                                    "cidr": "88.54.0.0/15",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "88.54.0.0 - 88.55.255.255",
+                                    "description": "INTERBUSINESS",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": [
+                                                "abuse@business.telecomitalia.it"
+                                    ],
+                                    "created": "2006-10-26T08:42:29Z",
+                                    "updated": "2017-07-17T12:43:21Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

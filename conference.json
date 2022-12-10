@@ -1,0 +1,38 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "6167",
+            "asn_cidr": "97.0.0.0/10",
+            "asn_country_code": "US",
+            "asn_date": "2007-01-22",
+            "asn_description": "CELLCO-PART, US\n22394",
+            "query": "97.54.32.90",
+            "nets": [
+                        {
+                                    "cidr": "97.0.0.0/10",
+                                    "name": "WIRELESSDATANEWORK",
+                                    "handle": "NET-97-0-0-0-1",
+                                    "range": "97.0.0.0 - 97.63.255.255",
+                                    "description": "Verizon Business",
+                                    "country": "US",
+                                    "state": "VA",
+                                    "city": "Ashburn",
+                                    "address": "22001 Loudoun County Pkwy",
+                                    "postal_code": "20147",
+                                    "emails": [
+                                                "swipper@verizonbusiness.com",
+                                                "dnsadmin@verizon.com",
+                                                "jebaraj.kennet@verizon.com",
+                                                "Kenneth.Reeb@verizonwireless.com",
+                                                "abuse@verizon.net",
+                                                "abuse-mail@verizonbusiness.com",
+                                                "swipper@verizon.com"
+                                    ],
+                                    "created": "2007-01-22",
+                                    "updated": "2022-05-31"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}
