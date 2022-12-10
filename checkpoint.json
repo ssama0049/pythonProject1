@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "afrinic",
+            "asn": "36947",
+            "asn_cidr": "105.104.0.0/17",
+            "asn_country_code": "DZ",
+            "asn_date": "2013-11-18",
+            "asn_description": "ALGTEL-AS, DZ",
+            "query": "105.104.20.3",
+            "nets": [
+                        {
+                                    "cidr": "105.104.0.0/17",
+                                    "name": "RESIDENTIAL-ANNABA",
+                                    "handle": "SD6-AFRINIC",
+                                    "range": "105.104.0.0 - 105.104.127.255",
+                                    "description": "ADSL ANNABA",
+                                    "country": "DZ",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Alger",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": null,
+                                    "updated": null
+                        },
+                        {
+                                    "cidr": "105.96.0.0/12",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "105.96.0.0 - 105.111.255.255",
+                                    "description": "Algerie Telecom",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": null,
+                                    "updated": null
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

@@ -1,0 +1,36 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "1998",
+            "asn_cidr": "156.98.0.0/15",
+            "asn_country_code": "US",
+            "asn_date": "1991-12-24",
+            "asn_description": "STATE-OF-MN, US",
+            "query": "156.99.33.65",
+            "nets": [
+                        {
+                                    "cidr": "156.99.0.0/16",
+                                    "name": "MINESOTADOA1",
+                                    "handle": "NET-156-99-0-0-1",
+                                    "range": "156.99.0.0 - 156.99.255.255",
+                                    "description": "State of Minnesota",
+                                    "country": "US",
+                                    "state": "MN",
+                                    "city": "St Paul",
+                                    "address": "Office of Enterprise Technology, State of Minnesota\n658 Cedar St, Centennial Office Building",
+                                    "postal_code": "55155",
+                                    "emails": [
+                                                "casey.neumann@state.mn.us",
+                                                "nic@nic.state.mn.us",
+                                                "Mike.DeLosier@state.mn.us",
+                                                "dan.flowers@state.mn.us",
+                                                "abuse@state.mn.us"
+                                    ],
+                                    "created": "1991-12-24",
+                                    "updated": "2012-04-02"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

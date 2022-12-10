@@ -1,0 +1,53 @@
+{
+            "nir": null,
+            "asn_registry": "apnic",
+            "asn": "NA",
+            "asn_cidr": "NA",
+            "asn_country_code": "IN",
+            "asn_date": "2011-01-31",
+            "asn_description": "NA",
+            "query": "101.2.56.7",
+            "nets": [
+                        {
+                                    "cidr": "101.2.0.0/17",
+                                    "name": "BHARTI-IN",
+                                    "handle": "AB914-AP",
+                                    "range": "101.2.0.0 - 101.2.127.255",
+                                    "description": "Bharti Airtel Limited",
+                                    "country": "IN",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Bharti Airtel Ltd.",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "shankar.B@airtel.com",
+                                                "dsltac2north.unoc@airtel.com",
+                                                "shankar.b@airtel.com",
+                                                "apnic@airtel.com",
+                                                "noc-dataprov@airtel.com"
+                                    ],
+                                    "created": null,
+                                    "updated": null
+                        },
+                        {
+                                    "cidr": "101.2.0.0/18",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "101.2.0.0 - 101.2.63.255",
+                                    "description": "IP pool for GPRS Services",
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": [
+                                                "varinder.singla@uninor.in"
+                                    ],
+                                    "created": null,
+                                    "updated": null
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

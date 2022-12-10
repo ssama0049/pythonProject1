@@ -1,0 +1,38 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "5650",
+            "asn_cidr": "71.123.0.0/24",
+            "asn_country_code": "US",
+            "asn_date": "2005-01-18",
+            "asn_description": "FRONTIER-FRTR, US",
+            "query": "71.123.0.45",
+            "nets": [
+                        {
+                                    "cidr": "71.96.0.0/11",
+                                    "name": "VIS-71-96",
+                                    "handle": "NET-71-96-0-0-1",
+                                    "range": "71.96.0.0 - 71.127.255.255",
+                                    "description": "Verizon Business",
+                                    "country": "US",
+                                    "state": "VA",
+                                    "city": "Ashburn",
+                                    "address": "22001 Loudoun County Pkwy",
+                                    "postal_code": "20147",
+                                    "emails": [
+                                                "stephen.r.middleton@verizon.com",
+                                                "abuse@verizon.net",
+                                                "swipper@verizonbusiness.com",
+                                                "abuse-mail@verizonbusiness.com",
+                                                "dnsadmin@verizon.com",
+                                                "jebaraj.kennet@verizon.com",
+                                                "Kenneth.Reeb@verizonwireless.com"
+                                    ],
+                                    "created": "2005-01-18",
+                                    "updated": "2022-05-31"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

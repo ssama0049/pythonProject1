@@ -1,0 +1,32 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "7377",
+            "asn_cidr": "44.0.0.0/9",
+            "asn_country_code": "US",
+            "asn_date": "1992-07-01",
+            "asn_description": "UCSD, US",
+            "query": "44.56.77.2",
+            "nets": [
+                        {
+                                    "cidr": "44.128.0.0/10, 44.0.0.0/9",
+                                    "name": "AMPRNET",
+                                    "handle": "NET-44-0-0-0-1",
+                                    "range": "44.0.0.0 - 44.191.255.255",
+                                    "description": "Amateur Radio Digital Communications",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "San Diego",
+                                    "address": "5663 Balboa Ave Suite 432",
+                                    "postal_code": "92111-2705",
+                                    "emails": [
+                                                "chris@ardc.net"
+                                    ],
+                                    "created": "1992-07-01",
+                                    "updated": "2021-12-14"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

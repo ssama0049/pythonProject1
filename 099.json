@@ -1,0 +1,34 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "3",
+            "asn_cidr": "18.27.0.0/16",
+            "asn_country_code": "US",
+            "asn_date": "1994-01-01",
+            "asn_description": "MIT-GATEWAYS, US",
+            "query": "18.27.80.34",
+            "nets": [
+                        {
+                                    "cidr": "18.0.0.0/11",
+                                    "name": "MIT",
+                                    "handle": "NET-18-0-0-0-1",
+                                    "range": "18.0.0.0 - 18.31.255.255",
+                                    "description": "Massachusetts Institute of Technology",
+                                    "country": "US",
+                                    "state": "MA",
+                                    "city": "Cambridge",
+                                    "address": "Room W92-167\n77 Massachusetts Avenue",
+                                    "postal_code": "02139-4307",
+                                    "emails": [
+                                                "mark@mit.edu",
+                                                "arin-mit-security@mit.edu",
+                                                "noc@mit.edu"
+                                    ],
+                                    "created": "1994-01-01",
+                                    "updated": "2021-12-14"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

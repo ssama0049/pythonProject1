@@ -1,0 +1,80 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "23089",
+            "asn_cidr": "134.56.0.0/18",
+            "asn_country_code": "US",
+            "asn_date": "2017-05-18",
+            "asn_description": "HOTWIRE-COMMUNICATIONS, US",
+            "query": "134.56.0.2",
+            "nets": [
+                        {
+                                    "cidr": "134.56.0.0/16",
+                                    "name": "HOTWI",
+                                    "handle": "NET-134-56-0-0-1",
+                                    "range": "134.56.0.0 - 134.56.255.255",
+                                    "description": "Hotwire Communications",
+                                    "country": "US",
+                                    "state": "PA",
+                                    "city": "Bala Cynwyd",
+                                    "address": "Three Bala Plaza East,\nSuite 700",
+                                    "postal_code": "19004",
+                                    "emails": [
+                                                "claudio.pallais@hotwirecommunication.com",
+                                                "LUIS.CONTRERAS@HOTWIRECOMMUNICATION.COM",
+                                                "jlawson@hotwiremail.com",
+                                                "JSlattery@hotwirecommunication.com",
+                                                "luis.contreras@hotwirecommunication.com",
+                                                "bketterhagen@hotwirecommunication.com",
+                                                "donaldo.pacheco@hotwirecommunication.com"
+                                    ],
+                                    "created": "2017-05-18",
+                                    "updated": "2017-05-18"
+                        },
+                        {
+                                    "cidr": "134.56.0.0/16",
+                                    "name": "FISION-BLK-134-56-0-0-16",
+                                    "handle": "NET-134-56-0-0-2",
+                                    "range": "134.56.0.0 - 134.56.31.255",
+                                    "description": "Hotwire Fision",
+                                    "country": "US",
+                                    "state": "FL",
+                                    "city": "Fort Lauderdale",
+                                    "address": "2100 Cypress Creek Road",
+                                    "postal_code": "33309",
+                                    "emails": [
+                                                "ipadmin@hotwirecommunication.com",
+                                                "jlawson@hotwiremail.com",
+                                                "JSlattery@hotwirecommunication.com",
+                                                "bketterhagen@hotwirecommunication.com",
+                                                "donaldo.pacheco@hotwirecommunication.com"
+                                    ],
+                                    "created": "2017-06-02",
+                                    "updated": "2017-06-02"
+                        },
+                        {
+                                    "cidr": "134.56.0.0/19",
+                                    "name": "FISION-BLK2-MIAMI-A",
+                                    "handle": "NET-134-56-0-0-3",
+                                    "range": null,
+                                    "description": "Hotwire Fision",
+                                    "country": "US",
+                                    "state": "FL",
+                                    "city": "Fort Lauderdale",
+                                    "address": "2100 Cypress Creek Road",
+                                    "postal_code": "33309",
+                                    "emails": [
+                                                "ipadmin@hotwirecommunication.com",
+                                                "jlawson@hotwiremail.com",
+                                                "JSlattery@hotwirecommunication.com",
+                                                "bketterhagen@hotwirecommunication.com",
+                                                "donaldo.pacheco@hotwirecommunication.com"
+                                    ],
+                                    "created": "2018-12-20",
+                                    "updated": "2018-12-20"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

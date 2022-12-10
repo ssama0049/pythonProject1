@@ -1,0 +1,32 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "668",
+            "asn_cidr": "6.6.4.0/24",
+            "asn_country_code": "US",
+            "asn_date": "1994-02-01",
+            "asn_description": "DNIC-AS-00668, US",
+            "query": "6.6.4.3",
+            "nets": [
+                        {
+                                    "cidr": "6.0.0.0/8",
+                                    "name": "CONUS-YPG-NET",
+                                    "handle": "NET-6-0-0-0-1",
+                                    "range": "6.0.0.0 - 6.255.255.255",
+                                    "description": "Headquarters, USAISC",
+                                    "country": "US",
+                                    "state": "AZ",
+                                    "city": "Fort Huachuca",
+                                    "address": "NETC-ANC CONUS TNOSC",
+                                    "postal_code": "85613",
+                                    "emails": [
+                                                "disa.columbus.ns.mbx.arin-registrations@mail.mil"
+                                    ],
+                                    "created": "1994-02-01",
+                                    "updated": "2011-02-24"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

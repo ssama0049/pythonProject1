@@ -1,0 +1,33 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "33343",
+            "asn_cidr": "170.110.0.0/16",
+            "asn_country_code": "US",
+            "asn_date": "1994-04-11",
+            "asn_description": "HCHBNET, US",
+            "query": "170.110.88.200",
+            "nets": [
+                        {
+                                    "cidr": "170.110.0.0/16",
+                                    "name": "ITA-B",
+                                    "handle": "NET-170-110-0-0-1",
+                                    "range": "170.110.0.0 - 170.110.255.255",
+                                    "description": "U.S. Dept. of Commerce - ITA",
+                                    "country": "US",
+                                    "state": "DC",
+                                    "city": "Washington",
+                                    "address": "ITA OCIO HCHB 48002\n14th & Constitution Ave NW",
+                                    "postal_code": "20230",
+                                    "emails": [
+                                                "frank.eggert@trade.gov",
+                                                "chuck.hicks@trade.gov"
+                                    ],
+                                    "created": "1994-04-11",
+                                    "updated": "2021-12-14"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

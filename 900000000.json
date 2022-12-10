@@ -1,0 +1,53 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "7029",
+            "asn_cidr": "75.89.40.0/21",
+            "asn_country_code": "US",
+            "asn_date": "2006-10-17",
+            "asn_description": "WINDSTREAM, US",
+            "query": "75.89.43.3",
+            "nets": [
+                        {
+                                    "cidr": "75.88.0.0/14",
+                                    "name": "WINDSTREAM",
+                                    "handle": "NET-75-88-0-0-1",
+                                    "range": "75.88.0.0 - 75.91.255.255",
+                                    "description": "Windstream Communications LLC",
+                                    "country": "US",
+                                    "state": "AR",
+                                    "city": "Little Rock",
+                                    "address": "4001 Rodney Parham Rd",
+                                    "postal_code": "72212",
+                                    "emails": [
+                                                "abuse@windstream.net",
+                                                "ipadmin@windstream.net",
+                                                "ipswip@windstream.net"
+                                    ],
+                                    "created": "2006-10-17",
+                                    "updated": "2012-03-02"
+                        },
+                        {
+                                    "cidr": "75.89.40.0/21",
+                                    "name": "75-89-40-0",
+                                    "handle": "NET-75-89-40-0-1",
+                                    "range": null,
+                                    "description": "Windstream - Moody",
+                                    "country": "US",
+                                    "state": "AL",
+                                    "city": "Moody",
+                                    "address": "920 Park Ave",
+                                    "postal_code": "35004",
+                                    "emails": [
+                                                "abuse@windstream.net",
+                                                "ipadmin@windstream.net",
+                                                "ipswip@windstream.net"
+                                    ],
+                                    "created": "2007-01-17",
+                                    "updated": "2007-01-17"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

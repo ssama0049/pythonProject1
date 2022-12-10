@@ -1,0 +1,34 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "3356",
+            "asn_cidr": "4.0.0.0/9",
+            "asn_country_code": "US",
+            "asn_date": "1992-12-01",
+            "asn_description": "LEVEL3, US",
+            "query": "4.56.77.99",
+            "nets": [
+                        {
+                                    "cidr": "4.0.0.0/9",
+                                    "name": "LVLT-ORG-4-8",
+                                    "handle": "NET-4-0-0-0-1",
+                                    "range": "4.0.0.0 - 4.127.255.255",
+                                    "description": "Level 3 Parent, LLC",
+                                    "country": "US",
+                                    "state": "LA",
+                                    "city": "Monroe",
+                                    "address": "100 CenturyLink Drive",
+                                    "postal_code": "71203",
+                                    "emails": [
+                                                "abuse@aup.lumen.com",
+                                                "ipaddressing@level3.com",
+                                                "abuse@level3.com"
+                                    ],
+                                    "created": "1992-12-01",
+                                    "updated": "2019-07-17"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

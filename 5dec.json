@@ -1,0 +1,32 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "NA",
+            "asn_cidr": "NA",
+            "asn_country_code": "US",
+            "asn_date": "1994-07-01",
+            "asn_description": "NA",
+            "query": "15.9.0.5",
+            "nets": [
+                        {
+                                    "cidr": "15.0.0.0/10, 15.96.0.0/13, 15.64.0.0/11",
+                                    "name": "HP-INTERNET",
+                                    "handle": "NET-15-0-0-0-1",
+                                    "range": "15.0.0.0 - 15.103.255.255",
+                                    "description": "HP Inc.",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "Palo Alto",
+                                    "address": "1501 Page Mill Rd",
+                                    "postal_code": "94304",
+                                    "emails": [
+                                                "IPAddr@hp.com"
+                                    ],
+                                    "created": "1994-07-01",
+                                    "updated": "2022-04-04"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

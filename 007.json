@@ -1,0 +1,33 @@
+{
+            "nir": null,
+            "asn_registry": "apnic",
+            "asn": "4134",
+            "asn_cidr": "124.232.0.0/15",
+            "asn_country_code": "CN",
+            "asn_date": "2006-05-03",
+            "asn_description": "CHINANET-BACKBONE No.31,Jin-rong Street, CN",
+            "query": "124.232.11.55",
+            "nets": [
+                        {
+                                    "cidr": "124.232.0.0/15",
+                                    "name": "CHINANET-HN",
+                                    "handle": "AC1573-AP",
+                                    "range": "124.232.0.0 - 124.233.255.255",
+                                    "description": "CHINANET Hunan province network\nChina Telecom\nNo.31,jingrong street\nBeijing 100032",
+                                    "country": "CN",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "No.31 ,jingrong street,beijing\n100032",
+                                    "postal_code": null,
+                                    "emails": [
+                                                "anti-spam@chinatelecom.cn",
+                                                "13348615181@189.cn"
+                                    ],
+                                    "created": null,
+                                    "updated": null
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

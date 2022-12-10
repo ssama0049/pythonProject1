@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "13335",
+            "asn_cidr": "188.114.98.0/24",
+            "asn_country_code": "US",
+            "asn_date": "2012-09-07",
+            "asn_description": "CLOUDFLARENET, US",
+            "query": "188.114.98.224",
+            "nets": [
+                        {
+                                    "cidr": "188.114.96.0/22",
+                                    "name": "CLOUDFLARENET-EU",
+                                    "handle": "CAC80-RIPE",
+                                    "range": "188.114.96.0 - 188.114.99.255",
+                                    "description": "CloudFlare, Inc.\n101 Townsend Street, San Francisco, CA 94107, US\n+1 (650) 319-8930\nhttps://cloudflare.com/",
+                                    "country": "US",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Viktualienmarkt Rosental 7 80331 Munchen, DE",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2015-10-16T16:26:10Z",
+                                    "updated": "2015-10-16T16:26:10Z"
+                        },
+                        {
+                                    "cidr": "188.114.98.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "188.114.98.0 - 188.114.98.255",
+                                    "description": null,
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2020-06-15T18:05:37Z",
+                                    "updated": "2020-06-15T18:05:37Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

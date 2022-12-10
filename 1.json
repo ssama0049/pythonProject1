@@ -1,0 +1,45 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "208928",
+            "asn_cidr": "45.15.0.0/22",
+            "asn_country_code": "ES",
+            "asn_date": "2019-05-09",
+            "asn_description": "MEGALAN, ES",
+            "query": "45.15.0.77",
+            "nets": [
+                        {
+                                    "cidr": "45.15.0.0/24",
+                                    "name": "megalan-customers-1",
+                                    "handle": "MML65-RIPE",
+                                    "range": "45.15.0.0 - 45.15.0.255",
+                                    "description": null,
+                                    "country": "ES",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Ronda Norte, 53\n14549\nLa Montiela\nSPAIN",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2021-02-02T18:09:32Z",
+                                    "updated": "2021-02-02T18:09:32Z"
+                        },
+                        {
+                                    "cidr": "45.15.0.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "45.15.0.0 - 45.15.0.255",
+                                    "description": null,
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2019-08-01T08:54:27Z",
+                                    "updated": "2019-08-01T08:54:27Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

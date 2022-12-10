@@ -1,0 +1,60 @@
+{
+            "nir": null,
+            "asn_registry": "ripencc",
+            "asn": "58224",
+            "asn_cidr": "5.200.200.0/24",
+            "asn_country_code": "IR",
+            "asn_date": "2012-08-29",
+            "asn_description": "TCI, IR",
+            "query": "5.200.200.123",
+            "nets": [
+                        {
+                                    "cidr": "5.200.192.0/18",
+                                    "name": "ORG-AMD6-RIPE",
+                                    "handle": "BE1966-RIPE",
+                                    "range": "5.200.192.0 - 5.200.255.255",
+                                    "description": null,
+                                    "country": "IR",
+                                    "state": null,
+                                    "city": null,
+                                    "address": "Shahid Beheshti St-Gorgan-IRAN",
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2019-02-19T09:33:17Z",
+                                    "updated": "2019-02-19T09:33:17Z"
+                        },
+                        {
+                                    "cidr": "5.200.200.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "5.200.200.0 - 5.200.200.255",
+                                    "description": null,
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2018-02-12T12:00:19Z",
+                                    "updated": "2018-02-12T12:00:19Z"
+                        },
+                        {
+                                    "cidr": "5.200.200.0/24",
+                                    "name": null,
+                                    "handle": null,
+                                    "range": "5.200.200.0 - 5.200.200.255",
+                                    "description": null,
+                                    "country": null,
+                                    "state": null,
+                                    "city": null,
+                                    "address": null,
+                                    "postal_code": null,
+                                    "emails": null,
+                                    "created": "2018-02-12T11:55:46Z",
+                                    "updated": "2018-02-12T11:57:27Z"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

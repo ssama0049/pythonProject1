@@ -1,0 +1,35 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "22606",
+            "asn_cidr": "66.231.80.0/20",
+            "asn_country_code": "US",
+            "asn_date": "2006-09-05",
+            "asn_description": "EXACT-7, US",
+            "query": "66.231.85.23",
+            "nets": [
+                        {
+                                    "cidr": "66.231.80.0/20",
+                                    "name": "EXACT-IP-NET-1",
+                                    "handle": "NET-66-231-80-0-1",
+                                    "range": "66.231.80.0 - 66.231.95.255",
+                                    "description": "Salesforce.com, Inc.",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "San Francisco",
+                                    "address": "Attn: Accounts Payable\n415 Mission Street, 3rd Floor",
+                                    "postal_code": "94105",
+                                    "emails": [
+                                                "public-dns@salesforce.com",
+                                                "abuse@salesforce.com",
+                                                "abuse@c.exacttarget.com",
+                                                "neteng@salesforce.com"
+                                    ],
+                                    "created": "2006-09-05",
+                                    "updated": "2019-07-16"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

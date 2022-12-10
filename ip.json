@@ -1,0 +1,51 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": "7018",
+            "asn_cidr": "32.0.0.0/9",
+            "asn_country_code": "US",
+            "asn_date": "1990-05-30",
+            "asn_description": "ATT-INTERNET4, US",
+            "query": "32.7.2.45",
+            "nets": [
+                        {
+                                    "cidr": "32.160.0.0/14, 32.0.0.0/9, 32.128.0.0/11",
+                                    "name": "ATT-32-0-0-0-A",
+                                    "handle": "NET-32-0-0-0-1",
+                                    "range": "32.0.0.0 - 32.163.255.255",
+                                    "description": "AT&T Corp.",
+                                    "country": "US",
+                                    "state": "WA",
+                                    "city": "Redmond",
+                                    "address": "7277 164th Ave NE\nAttn: IP Management",
+                                    "postal_code": "98052",
+                                    "emails": [
+                                                "abuse@att.net",
+                                                "ipadmin@att.com"
+                                    ],
+                                    "created": "1990-05-30",
+                                    "updated": "2022-11-15"
+                        },
+                        {
+                                    "cidr": "32.7.0.0/20",
+                                    "name": "ATGS-051509160635",
+                                    "handle": "NET-32-7-0-0-1",
+                                    "range": null,
+                                    "description": "ATTUS EVPN-LPB1",
+                                    "country": "US",
+                                    "state": "NJ",
+                                    "city": "MIDDLETOWN",
+                                    "address": "200 S. LAUREL AVE BLDG-A",
+                                    "postal_code": "07748",
+                                    "emails": [
+                                                "abuse@att.net",
+                                                "ipadmin@att.com"
+                                    ],
+                                    "created": "2009-05-15",
+                                    "updated": "2009-05-15"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}

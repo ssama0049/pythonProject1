@@ -1,0 +1,32 @@
+{
+            "nir": null,
+            "asn_registry": "arin",
+            "asn": null,
+            "asn_cidr": null,
+            "asn_country_code": null,
+            "asn_date": null,
+            "asn_description": null,
+            "query": "100.123.4.5",
+            "nets": [
+                        {
+                                    "cidr": "100.64.0.0/10",
+                                    "name": "SHARED-ADDRESS-SPACE-RFC6598-IANA-RESERVED",
+                                    "handle": "NET-100-64-0-0-1",
+                                    "range": "100.64.0.0 - 100.127.255.255",
+                                    "description": "Internet Assigned Numbers Authority",
+                                    "country": "US",
+                                    "state": "CA",
+                                    "city": "Los Angeles",
+                                    "address": "12025 Waterfront Drive\nSuite 300",
+                                    "postal_code": "90292",
+                                    "emails": [
+                                                "abuse@iana.org"
+                                    ],
+                                    "created": "2012-03-13",
+                                    "updated": "2022-04-05"
+                        }
+            ],
+            "raw": null,
+            "referral": null,
+            "raw_referral": null
+}
